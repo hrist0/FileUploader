@@ -1,4 +1,4 @@
-### Secure File Uploader REST API using ASP.NET Core
+# Secure File Uploader REST API using ASP.NET Core
 
 This project implements a secure file uploader REST API using ASP.NET Core. The service allows users to upload files securely, with features ensuring data privacy and user authentication.
 
